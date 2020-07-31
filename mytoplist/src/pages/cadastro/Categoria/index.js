@@ -1,20 +1,30 @@
 import React, { useState } from "react";
 import PageDefault from "../../../components/PageDefault";
 import { Link } from "react-router-dom";
+import FormField from "../../../components/FormField";
 
 function CadastroCategoria() {
-  const valoresIniciais = { nome: "", descricao: "", cor: "#000" };
+  const valoresIniciais = { nome: "", descricao: "", cor: "" };
 
   const [values, setValues] = useState(valoresIniciais);
   const [categorias, setCategorias] = useState([]);
 
-  function handleValues(event) {
-    setValues(event.target.value);
+  function setValue(key, value) {
+    setValues({
+      ...values,
+      [key]: value,
+    });
+  }
+
+  function handleChange(event) {
+    const { getAttribute, value } = event.target;
+    setValue(getAttribute("name"), value);
   }
 
   function handleSubmit(event) {
     event.preventDefault();
     setCategorias([...categorias, values]);
+    setValues(valoresIniciais);
   }
 
   return (
@@ -22,35 +32,34 @@ function CadastroCategoria() {
       <h1>Cadastro da Categoria:{values.nome}</h1>
 
       <form onSubmit={handleSubmit}>
-        <div>
-          <label>
-            Nome da Categoria:
-            <input type="text" value={values.nome} onChange={handleValues} />
-          </label>
-        </div>
-        <div>
-          <label>
-            Dercrição:
-            <textarea
-              type="text"
-              value={values.descricao}
-              onChange={handleValues}
-            />
-          </label>
-        </div>
-        <div>
-          <label>
-            Cor:
-            <input type="color" value={values.cor} onChange={handleValues} />
-          </label>
-        </div>
+        <FormField
+          label="Nome da categoria:"
+          type="text"
+          value={values.nome}
+          name="nome"
+          onChange={handleChange}
+        />
+        <FormField
+          label="Descrição:"
+          type="text"
+          value={values.descricao}
+          name="dascricao"
+          onChange={handleChange}
+        />
+        <FormField
+          label="Cor:"
+          type="color"
+          value={values.cor}
+          name="cor"
+          onChange={handleChange}
+        />
 
         <button>Cadastrar</button>
       </form>
 
       <ul>
         {categorias.map((categoria, indice) => {
-          return <li key={`${categoria}${indice}`}>{categoria}</li>;
+          return <li key={`${categoria}${indice}`}>{categoria.nome}</li>;
         })}
       </ul>
 
