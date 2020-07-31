@@ -11,4 +11,17 @@ function FormField({ label, type, value, name, onChange }) {
   );
 }
 
+FormField.defaultProps = {
+  type: "text",
+  value: "",
+};
+
+FormField.propTypes = {
+  label: PropTypes.string.isRequired,
+  type: PropTypes.string,
+  value: PropTypes.string,
+  name: PropTypes.string.isRequired,
+  onChange: PropTypes.func,
+};
+
 export default FormField;
