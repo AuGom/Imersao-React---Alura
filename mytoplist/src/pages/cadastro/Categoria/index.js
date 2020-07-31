@@ -17,8 +17,7 @@ function CadastroCategoria() {
   }
 
   function handleChange(event) {
-    const { getAttribute, value } = event.target;
-    setValue(getAttribute("name"), value);
+    setValue(event.target.getAttribute("name"), event.target.value);
   }
 
   function handleSubmit(event) {
