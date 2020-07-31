@@ -1,162 +1,162 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Series",
+      "link": "",
+      "cor": "#ada8a8",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "The Leftover",
+          "url": "https://www.youtube.com/watch?v=N8LKWwJeWy0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "The Night of",
+          "url": "https://youtu.be/PbHkfsyU-r8"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Euphoria",
+          "url": "https://www.youtube.com/watch?v=6XGnv7Zgbeg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "True Detective",
+          "url": "https://www.youtube.com/watch?v=8Wm9bLXRIw0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Boardwalk Empire",
+          "url": "https://www.youtube.com/watch?v=qRpqQsdU-dg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "I May Destroy You",
+          "url": "https://www.youtube.com/watch?v=DTjlurdbNnw"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Chernobyl",
+          "url": "https://www.youtube.com/watch?v=s9APLXM9Ei8"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Sharp Objects",
+          "url": "https://www.youtube.com/watch?v=DgljcMqPG98"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "cor": "#ea0b61",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Parasite",
+          "url": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "The Handmaiden",
+          "url": "https://www.youtube.com/watch?v=whldChqCsYk"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "A Ghost Story",
+          "url": "https://www.youtube.com/watch?v=c_3NMtxeyfk"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Swiss Army Man",
+          "url": "https://www.youtube.com/watch?v=at-sMi2JBQ0"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Midsommar",
+          "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Jogos PlayStation",
+      "cor": "#0070D1",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "text": "Heavy Rain",
+          "url": "https://youtu.be/YVYiJ3VSp60"
+        },
+        {
+          "titulo": "Detroit: Become Human",
+          "url": "https://youtu.be/QD1pbWCJcKQ"
+        },
+        {
+          "titulo": "Ghost of Tsushima",
+          "url": "https://youtu.be/iqysmS4lxwQ"
+        },
+        {
+          "titulo": "Horizon Forbidden West",
+          "url": "https://www.youtube.com/watch?v=Lq594XmpPBg"
+        },
+        {
+          "titulo": "Cyberpunk 2077",
+          "url": "https://youtu.be/7gbhCi6BusI"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos Nintendo Switch",
+      "cor": "#E60012",
+      "videos": [
+        {
+          "titulo": "Cuphead",
+          "url": "https://www.youtube.com/watch?v=XwF67xkNSn8"
+        },
+        {
+          "titulo": "Super Mario Party",
+          "url": "https://www.youtube.com/watch?v=D7zTJLIYJds"
+        },
+        {
+          "titulo": "Super Mario Odyssey",
+          "url": "https://youtu.be/5kcdRBHM7kM"
+        },
+        {
+          "titulo": "The Legend of Zelda: Breath of the Wild",
+          "url": "https://www.youtube.com/watch?v=zw47_q9wbBE"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos Xbox",
+      "cor": "#0BC408",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Outer Wilds",
+          "url": "https://www.youtube.com/watch?v=T7Ozz8NtKcE"
+        },
+        {
+          "titulo": "Forza Horizon 4",
+          "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
+        },
+        {
+          "titulo": "Ori and the Blind Forest",
+          "url": "https://www.youtube.com/watch?v=cklw-Yu3moE"
+        },
+        {
+          "titulo": "Hellblade: Senua's Sacrifice",
+          "url": "https://www.youtube.com/watch?v=toq2EqeG608"
+        }
+      ]
+    },
+    {
+      "titulo": "Cantor@s",
+      "cor": "#810eb2",
+      "link_extra": {
+        "text": "",
+        "url": ""
       },
       "videos": [
         {

@@ -15,7 +15,7 @@ function Home() {
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"
+          "The Leftovers é a nova série original HBO, um drama enigmático em que dois por cento da população desaparece de forma repentina e sem qualquer explicação, e o mundo inteiro tenta lidar com esta situação improvável. A história gira em torno de Kevin Garvey (Justin Theroux), pai de família e chefe de polícia de um pequeno subúrbio nova-iorquino, que se esforça para recuperar a sensação de normalidade diante de uma situação que parece impossível."
         }
       />
 
