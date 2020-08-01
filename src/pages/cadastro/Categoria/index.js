@@ -19,17 +19,13 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    if (window.location.href.includes("localhost")) {
-      const URL = "http://localhost:8080/categorias";
-      fetch(URL).then(async (response) => {
-        if (response.ok) {
-          const resposta = await response.json();
-          setCategorias(resposta);
-          return;
-        }
-        throw new Error("Não foi possível pegar os dados");
-      });
-    }
+    const URL = window.location.hostname.includes("localhost")
+      ? "http://localhost:8080/categorias"
+      : "https://mytoplist.herokuapp.com/categorias";
+    fetch(URL).then(async (response) => {
+      const resposta = await response.json();
+      setCategorias([...resposta]);
+    });
   }, []);
 
   return (
