@@ -1,0 +1,210 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Series",
+      "cor": "#ada8a8"
+    },
+    {
+      "id": 2,
+      "titulo": "Filmes",
+      "cor": "#ea0b61"
+    },
+    {
+      "id": 3,
+      "titulo": "Jogos PlayStation",
+      "cor": "#0070D1"
+    },
+    { "id": 4, "titulo": "Jogos Nintendo Switch", "cor": "#E60012" },
+    { "id": 5, "titulo": "Jogos Xbox", "cor": "#0BC408" },
+    { "id": 6, "titulo": "Cantorxs", "cor": "#810eb2" }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "The Leftover",
+      "url": "https://www.youtube.com/watch?v=N8LKWwJeWy0"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "The Night of",
+      "url": "https://youtu.be/PbHkfsyU-r8"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Euphoria",
+      "url": "https://www.youtube.com/watch?v=6XGnv7Zgbeg"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "True Detective",
+      "url": "https://www.youtube.com/watch?v=8Wm9bLXRIw0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Boardwalk Empire",
+      "url": "https://www.youtube.com/watch?v=qRpqQsdU-dg"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "I May Destroy You",
+      "url": "https://www.youtube.com/watch?v=DTjlurdbNnw"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Chernobyl",
+      "url": "https://www.youtube.com/watch?v=s9APLXM9Ei8"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Sharp Objects",
+      "url": "https://www.youtube.com/watch?v=DgljcMqPG98"
+    },
+    {
+      "id": 1,
+      "categoriaId": 2,
+      "titulo": "Parasite",
+      "url": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
+    },
+    {
+      "id": 2,
+      "categoriaId": 2,
+      "titulo": "The Handmaiden",
+      "url": "https://www.youtube.com/watch?v=whldChqCsYk"
+    },
+    {
+      "id": 3,
+      "categoriaId": 2,
+      "titulo": "A Ghost Story",
+      "url": "https://www.youtube.com/watch?v=c_3NMtxeyfk"
+    },
+    {
+      "id": 4,
+      "categoriaId": 2,
+      "titulo": "Swiss Army Man",
+      "url": "https://www.youtube.com/watch?v=at-sMi2JBQ0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 2,
+      "titulo": "Midsommar",
+      "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0"
+    },
+    {
+      "id": 1,
+      "categoriaId": 3,
+      "text": "Heavy Rain",
+      "url": "https://youtu.be/YVYiJ3VSp60"
+    },
+    {
+      "id": 2,
+      "categoriaId": 3,
+      "titulo": "Detroit: Become Human",
+      "url": "https://youtu.be/QD1pbWCJcKQ"
+    },
+    {
+      "id": 3,
+      "categoriaId": 3,
+      "titulo": "Ghost of Tsushima",
+      "url": "https://youtu.be/iqysmS4lxwQ"
+    },
+    {
+      "id": 4,
+      "categoriaId": 3,
+      "titulo": "Horizon Forbidden West",
+      "url": "https://www.youtube.com/watch?v=Lq594XmpPBg"
+    },
+    {
+      "id": 5,
+      "categoriaId": 3,
+      "titulo": "Cyberpunk 2077",
+      "url": "https://youtu.be/7gbhCi6BusI"
+    },
+    {
+      "id": 1,
+      "categoriaId": 4,
+      "titulo": "Cuphead",
+      "url": "https://www.youtube.com/watch?v=XwF67xkNSn8"
+    },
+    {
+      "id": 2,
+      "categoriaId": 4,
+      "titulo": "Super Mario Party",
+      "url": "https://www.youtube.com/watch?v=D7zTJLIYJds"
+    },
+    {
+      "id": 3,
+      "categoriaId": 4,
+      "titulo": "Super Mario Odyssey",
+      "url": "https://youtu.be/5kcdRBHM7kM"
+    },
+    {
+      "id": 4,
+      "categoriaId": 4,
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "url": "https://www.youtube.com/watch?v=zw47_q9wbBE"
+    },
+    {
+      "id": 1,
+      "categoriaId": 5,
+      "titulo": "Outer Wilds",
+      "url": "https://www.youtube.com/watch?v=T7Ozz8NtKcE"
+    },
+    {
+      "id": 2,
+      "categoriaId": 5,
+      "titulo": "Forza Horizon 4",
+      "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
+    },
+    {
+      "id": 3,
+      "categoriaId": 5,
+      "titulo": "Ori and the Blind Forest",
+      "url": "https://www.youtube.com/watch?v=cklw-Yu3moE"
+    },
+    {
+      "id": 4,
+      "categoriaId": 5,
+      "titulo": "Hellblade: Senua's Sacrifice",
+      "url": "https://www.youtube.com/watch?v=toq2EqeG608"
+    },
+    {
+      "id": 1,
+      "categoriaId": 6,
+      "titulo": "Potyguara Bardo - Oasis",
+      "url": "https://www.youtube.com/watch?v=PKHjb7-eqtk"
+    },
+    {
+      "id": 2,
+      "categoriaId": 6,
+      "titulo": "Liniker - Zero",
+      "url": "https://www.youtube.com/watch?v=M4s3yTJCcmI"
+    },
+    {
+      "id": 3,
+      "categoriaId": 6,
+      "titulo": "francisco, el hombre - Triste, Louca ou Má",
+      "url": "https://www.youtube.com/watch?v=lKmYTHgBNoE"
+    },
+    {
+      "id": 4,
+      "categoriaId": 6,
+      "titulo": "Flamingos - Baco Exu do Blues ft. Tuyo",
+      "url": "https://www.youtube.com/watch?v=B8UsBmUjwTo"
+    },
+    {
+      "id": 5,
+      "categoriaId": 6,
+      "titulo": "O Terno - Ai, Ai, Como Eu Me Iludo",
+      "url": "https://www.youtube.com/watch?v=LlDC361onUs"
+    }
+  ]
+}
