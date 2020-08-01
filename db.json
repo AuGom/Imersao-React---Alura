@@ -15,9 +15,21 @@
       "titulo": "Jogos PlayStation",
       "cor": "#0070D1"
     },
-    { "id": 4, "titulo": "Jogos Nintendo Switch", "cor": "#E60012" },
-    { "id": 5, "titulo": "Jogos Xbox", "cor": "#0BC408" },
-    { "id": 6, "titulo": "Cantorxs", "cor": "#810eb2" }
+    {
+      "id": 4,
+      "titulo": "Jogos Nintendo Switch",
+      "cor": "#E60012"
+    },
+    {
+      "id": 5,
+      "titulo": "Jogos Xbox",
+      "cor": "#0BC408"
+    },
+    {
+      "id": 6,
+      "titulo": "Cantorxs",
+      "cor": "#810eb2"
+    }
   ],
   "videos": [
     {
@@ -205,6 +217,12 @@
       "categoriaId": 6,
       "titulo": "O Terno - Ai, Ai, Como Eu Me Iludo",
       "url": "https://www.youtube.com/watch?v=LlDC361onUs"
+    },
+    {
+      "titulo": "fdsdf",
+      "url": "google.com",
+      "categoriaId": 1,
+      "id": 9
     }
   ]
 }
