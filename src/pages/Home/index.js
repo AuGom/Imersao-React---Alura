@@ -6,6 +6,8 @@ import BannerMain from "../../components/BannerMain";
 import Carousel from "../../components/Carousel";
 import Footer from "../../components/Footer";
 
+//http: //localhost:8080/categorias?_embed=videos
+
 function Home() {
   return (
     <div style={{ background: "#141414" }}>
